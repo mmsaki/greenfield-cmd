@@ -26,3 +26,11 @@
 
 # Log files
 logs/
+
+config.toml
+
+# greenfield binary
+gnfd-cmd
+
+build/
+
